@@ -1,0 +1,12 @@
+h1 {
+    color: pink;
+}
+
+#special {
+    font-size: 80px;
+    color: teal;
+}
+
+.highlight {
+    background-color: rgb(255,255,12);
+}
